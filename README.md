@@ -6,7 +6,7 @@ Samsun'da yaşayan, **Yazılım Geliştirme** öğrencisi ve **Backend Geliştir
 
 ### 🚀 2026-2027 Vizyonu & Hedefler
 - 🎓 **Eğitim:** Yazılım Geliştirme (1. Sınıf)
-- 🎯 **Büyük Hedef:** DGS 2027 ile Yazılım Mühendisliği'ne geçiş yapmak.
+- 🎯 **Büyük Hedef:** Kendimi geliştirip dünyaya açılmak
 - 🦅 **Tutku:** Beşiktaş JK & Teknoloji
 - 💻 **Setup:** Casper Excalibur G915
 
