@@ -5,7 +5,7 @@ Samsun'da yaşayan, **Yazılım ** öğrencisi ve **Backend Geliştirici** aday�
 ---
 
 ### 🚀 2026-2027 Vizyonu & Hedefler
-- 🎓 **Eğitim:** Yazılım  (. Sınıf)
+- 🎓 **Eğitim:** Yazılım  (2. Sınıf)
 - 🦅 **Tutku:** Beşiktaş JK & Teknoloji
 - 💻 **Setup:** Casper Excalibur G915
 
