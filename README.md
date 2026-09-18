@@ -45,7 +45,7 @@ Samsun'da yaşayan, **Yazılım ** öğrencisi ve **Backend Geliştirici** aday�
 | 27 | ⚖️ **Algorithm Complexity** | Big O analizi ve teknik problem çözme yaklaşımları. |
 | 28 | 🏁 **Kartal Maç Botu** | Beşiktaş maç takvimini ve skorlarını çeken araç. |
 | 29 | 📐 **Logical Math Notes** | Sayısal mantık problemleri için çözümlü Python örnekleri. |
-| 30 | 🚀 **Vision 2027** | Mühendislik mezuniyeti sonrası profesyonel kariyer planı. |
+| 30 | 🚀 **Vision | Mühendislik mezuniyeti sonrası profesyonel kariyer planı. |
 
 ---
 
