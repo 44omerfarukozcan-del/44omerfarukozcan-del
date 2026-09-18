@@ -1,12 +1,11 @@
 # Selam, Ben Ömer Faruk Özcan! 👋
 
-Samsun'da yaşayan, **Yazılım Geliştirme** öğrencisi ve **Backend Geliştirici** adayıyım. Kod yazmayı, sistem mimarilerini kurgulamayı ve donanımı sanata dönüştürmeyi seviyorum.
+Samsun'da yaşayan, **Yazılım ** öğrencisi ve **Backend Geliştirici** adayıyım. Kod yazmayı, sistem mimarilerini kurgulamayı ve donanımı sanata dönüştürmeyi seviyorum.
 
 ---
 
 ### 🚀 2026-2027 Vizyonu & Hedefler
-- 🎓 **Eğitim:** Yazılım Geliştirme (1. Sınıf)
-- 🎯 **Büyük Hedef:** Hem subay olmak hem de yazılım alanında gelişmek
+- 🎓 **Eğitim:** Yazılım  (. Sınıf)
 - 🦅 **Tutku:** Beşiktaş JK & Teknoloji
 - 💻 **Setup:** Casper Excalibur G915
 
