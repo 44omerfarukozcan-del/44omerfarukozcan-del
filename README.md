@@ -11,41 +11,40 @@ Samsun'da yaşayan, **Yazılım ** öğrencisi ve **Backend Geliştirici** aday�
 
 ---
 
-### 📂 Proje Havuzum (30 Dev Fikir)
+### 📂 Proje Havuzum (29 Dev Fikir)
 Şu an geliştirdiğim veya üzerinde çalıştığım projeler ve ilgi alanlarım:
 
 | # | Proje Adı | Açıklama |
 |---|---|---|
 | 01 | ❤️ **Sevgili Web** | Özel bir Sevgililer Günü hediye sitesi projesi. |
 | 02 | 📱 **iPhone 7 Teardown** | Donanım parçalarını sanata dönüştüren çerçeveleme çalışması. |
-| 03 | 🎓 **DGS 2027 Yol Haritası** | Mühendislik geçiş süreci için kaynak ve program takibi. |
-| 04 | 🦅 **Beşiktaş Fan Portalı** | Siyah-Beyaz sevdayı dijitale taşıyan taraftar arayüzü. |
-| 05 | 💻 **Excalibur G915 Raporu** | Donanım performans ve optimizasyon çalışmaları. |
-| 06 | 🌊 **Samsun Teknoloji Rehberi** | Yerel yazılım toplulukları ve öğrenci noktaları haritası. |
-| 07 | 🐍 **Python Backend API** | Flask ile kurgulanmış güvenli veri yönetim sistemleri. |
-| 08 | 🗄️ **SQL Database Design** | Normalize edilmiş öğrenci yönetim veri tabanı mimarisi. |
-| 09 | 📝 **Markdown Not Alıcı** | Teknik ders notlarını dijital arşive dönüştüren araç. |
-| 10 | 📈 **DGS Net Takipçisi** | Matematik ve sayısal mantık gelişimini izleyen grafikler. |
-| 11 | ⚡ **Flask Portfolio v1** | Şu an incelediğiniz bu portfolyo yapısının temelleri. |
-| 12 | 🛠️ **Hardware Review** | Donanım parçaları üzerine teknik inceleme makaleleri. |
-| 13 | 📂 **Git Workflow Pro** | Verimli kod yönetimi için kullanılan branch stratejileri. |
-| 14 | ⏰ **Pomodoro Focus** | Ders çalışma verimliliğini artıran Python tabanlı araç. |
-| 15 | 🖼️ **Teardown Planner** | Parçalanmış cihazlar için dijital tasarım taslakları. |
-| 16 | 🔒 **Python Cryptography** | Veri şifreleme ve güvenli saklama üzerine yerel denemeler. |
-| 17 | ☁️ **Cloud Deployment** | Linux sunucu yönetimi ve site yayınlama süreçleri. |
-| 18 | 📱 **Responsive Design** | Her ekrana uyumlu CSS kütüphanesi geliştirme. |
-| 19 | 🤖 **AI Chatbot Lab** | Basit yapay zeka ve Python bot denemeleri. |
-| 20 | 📅 **Student Calendar** | Akademik takvim ve sınav programı düzenleyici. |
-| 21 | 🎮 **Snake Game (Python)** | Pygame kütüphanesi ile geliştirilmiş klasik yılan oyunu. |
-| 22 | 🏗️ **MVC Architecture** | Projelerimde kullandığım katmanlı mimari yapısı. |
-| 23 | 🔍 **SEO & Web Perf** | Web sitelerinde arama optimizasyonu çalışmaları. |
-| 24 | 🛒 **E-Commerce Proto** | Ürün listeleme ve sepet mantığı üzerine backend yapısı. |
-| 25 | 🎨 **CSS Animation Lib** | Akıcı web geçişleri için hazırladığım animasyonlar. |
-| 26 | 📧 **Automated Mailer** | Python smtplib ile hazırlanan form yanıtlayıcı. |
-| 27 | ⚖️ **Algorithm Complexity** | Big O analizi ve teknik problem çözme yaklaşımları. |
-| 28 | 🏁 **Kartal Maç Botu** | Beşiktaş maç takvimini ve skorlarını çeken araç. |
-| 29 | 📐 **Logical Math Notes** | Sayısal mantık problemleri için çözümlü Python örnekleri. |
-| 30 | 🚀 **Vision | Mühendislik mezuniyeti sonrası profesyonel kariyer planı. |
+| 03 | 🦅 **Beşiktaş Fan Portalı** | Siyah-Beyaz sevdayı dijitale taşıyan taraftar arayüzü. |
+| 04 | 💻 **Excalibur G915 Raporu** | Donanım performans ve optimizasyon çalışmaları. |
+| 05 | 🌊 **Samsun Teknoloji Rehberi** | Yerel yazılım toplulukları ve öğrenci noktaları haritası. |
+| 06 | 🐍 **Python Backend API** | Flask ile kurgulanmış güvenli veri yönetim sistemleri. |
+| 07 | 🗄️ **SQL Database Design** | Normalize edilmiş öğrenci yönetim veri tabanı mimarisi. |
+| 08| 📝 **Markdown Not Alıcı** | Teknik ders notlarını dijital arşive dönüştüren araç. |
+| 9 | 📈 **DGS Net Takipçisi** | Matematik ve sayısal mantık gelişimini izleyen grafikler. |
+| 10| ⚡ **Flask Portfolio v1** | Şu an incelediğiniz bu portfolyo yapısının temelleri. |
+| 11 | 🛠️ **Hardware Review** | Donanım parçaları üzerine teknik inceleme makaleleri. |
+| 12 | 📂 **Git Workflow Pro** | Verimli kod yönetimi için kullanılan branch stratejileri. |
+| 13 | ⏰ **Pomodoro Focus** | Ders çalışma verimliliğini artıran Python tabanlı araç. |
+| 14 | 🖼️ **Teardown Planner** | Parçalanmış cihazlar için dijital tasarım taslakları. |
+| 15 | 🔒 **Python Cryptography** | Veri şifreleme ve güvenli saklama üzerine yerel denemeler. |
+| 16 | ☁️ **Cloud Deployment** | Linux sunucu yönetimi ve site yayınlama süreçleri. |
+| 17 | 📱 **Responsive Design** | Her ekrana uyumlu CSS kütüphanesi geliştirme. |
+| 18| 🤖 **AI Chatbot Lab** | Basit yapay zeka ve Python bot denemeleri. |
+| 19 | 📅 **Student Calendar** | Akademik takvim ve sınav programı düzenleyici. |
+| 20 | 🎮 **Snake Game (Python)** | Pygame kütüphanesi ile geliştirilmiş klasik yılan oyunu. |
+| 21 | 🏗️ **MVC Architecture** | Projelerimde kullandığım katmanlı mimari yapısı. |
+| 22 | 🔍 **SEO & Web Perf** | Web sitelerinde arama optimizasyonu çalışmaları. |
+| 23 | 🛒 **E-Commerce Proto** | Ürün listeleme ve sepet mantığı üzerine backend yapısı. |
+| 24 | 🎨 **CSS Animation Lib** | Akıcı web geçişleri için hazırladığım animasyonlar. |
+| 25 | 📧 **Automated Mailer** | Python smtplib ile hazırlanan form yanıtlayıcı. |
+| 26 | ⚖️ **Algorithm Complexity** | Big O analizi ve teknik problem çözme yaklaşımları. |
+| 27 | 🏁 **Kartal Maç Botu** | Beşiktaş maç takvimini ve skorlarını çeken araç. |
+| 28| 📐 **Logical Math Notes** | Sayısal mantık problemleri için çözümlü Python örnekleri. |
+| 29 | 🚀 **Vision | Mühendislik mezuniyeti sonrası profesyonel kariyer planı. |
 
 ---
 
